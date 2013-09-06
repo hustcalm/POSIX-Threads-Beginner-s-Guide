@@ -19,4 +19,7 @@ For C++ programs,using
 
     g++ program.cpp -lpthread -o program.out
 
+### Learning More
+*   [Beginning POSIX threads Programming](http://hustcalm.me/blog/2013/09/06/posix-threads-duo-xian-cheng-bian-cheng-chu-bu/)
+
 Have fun with multithreading:-)
