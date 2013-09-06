@@ -12,9 +12,11 @@ A basic tutorial for POSIX threads usage with some demos, like creating, termina
 All the demos are tested under Linux Mint 15 32bit with gcc 4.7.3.
 
 For C programs,using
+
     gcc program.c -lpthread -o program.out
 
 For C++ programs,using
+
     g++ program.cpp -lpthread -o program.out
 
 Have fun with multithreading:-)
